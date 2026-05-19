@@ -34,12 +34,15 @@
 
 1. Clone the project & Install dependencies / تحميل المشروع وتثبيت المكتبات:
 ```bash
+
 git clone [https://github.com/mhmda1/Hok-AI-Contract-Auditor.git](https://github.com/mhmda1/Hok-AI-Contract-Auditor.git)
 cd Hok-AI-Contract-Auditor
 npm install @google/genai
 
+
 Run the tool / تشغيل الأداة في الترمكس:
 package.json
+
 How to use / طريقة الاستخدام:
 ​Paste your full Solidity contract into the terminal.
 (الصق كود العقد الذكي كاملاً في الشاشة)
