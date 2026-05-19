@@ -1,0 +1,20 @@
+{
+  "name": "hok-ai-contract-auditor",
+  "version": "3.0.0",
+  "description": "Hok AI Smart Contract Auditor powered by Gemini 2.5 Flash",
+  "main": "app.js",
+  "keywords": [
+    "solidity",
+    "audit",
+    "security",
+    "gemini",
+    "ai",
+    "smart-contracts",
+    "web3"
+  ],
+  "author": "Mohammed Ghaban",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^0.1.1"
+  }
+}
