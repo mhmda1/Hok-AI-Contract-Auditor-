@@ -33,25 +33,17 @@
 ### 🚀 Quick Start Guide | دليل التشغيل السريع
 
 1. Clone the project & Install dependencies / تحميل المشروع وتثبيت المكتبات:
-   
+```bash
 git clone https://github.com/mhmda1/Hok-AI-Contract-Auditor.git
 cd Hok-AI-Contract-Auditor
 npm install @google/genai
 
-3. Run the tool / تشغيل الأداة في الترمكس:
-   
+Run the tool / تشغيل الأداة في الترمكس:
 node app.js
-
-5. How to use / طريقة الاستخدام:
-* Paste your full Solidity contract into the terminal.
-(الصق كود العقد الذكي كاملاً في الشاشة)
-* Type 'check' on a new line and press Enter to trigger the AI global audit.
-(اكتب كلمة check في سطر جديد واضغط Enter لتبدأ عملية الفحص الشامل)
-* Type 'exit' to close the application.
-(اكتب كلمة exit للخروج من النظام وإغلاق الأداة)
-
----
-
-### 📄 License | الترخيص
-This project is licensed under the MIT License - feel free to use, modify, and develop!
+How to use / طريقة الاستخدام:
+​Paste your full Solidity contract into the terminal. (الصق كود العقد الذكي كاملاً في الشاشة)
+​Type 'check' on a new line and press Enter to trigger the AI global audit. (اكتب كلمة check في سطر جديد واضغط Enter لتبدأ عملية الفحص الشامل)
+​Type 'exit' to close the application. (اكتب كلمة exit للخروج من النظام وإغلاق الأداة)
+​📄 License | الترخيص
+​This project is licensed under the MIT License - feel free to use, modify, and develop!
 هذا المشروع مرخص بموجب رخصة MIT - متاح للاستخدام، التعديل، والتطوير الحر للجميع!
