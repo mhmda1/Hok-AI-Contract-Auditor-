@@ -27,26 +27,26 @@
 * **التصحيح التلقائي (الإصلاح التلقائي):** لا يقتصر الأمر على تسليط الضوء على الأخطاء فحسب، بل يقوم أيضًا بإنشاء كود Solidity آمن بنسبة 100٪ وجاهز للإنتاج على الفور.
 * **سجلات التدقيق الحتمية:** تقوم تلقائيًا بحفظ التقارير المنظمة بتنسيق `JSON` داخل دليل `Audit_Reports/`، مع وضع طابع زمني للتحقق.
 * **مخرجات محلية:** توفر تحليلات فنية شاملة وتوصيات للمطورين بلغة عربية احترافية واضحة.
-### 🚀 Quick Start Guide | دليل التشغيل السريع
-
-1. Clone the project & Install dependencies / تحميل المشروع وتثبيت المكتبات:
-git clone https://github.com/mhmda1/Hok-AI-Contract-Auditor.git
-cd Hok-AI-Contract-Auditor
-npm install @google/genai
-
-2. Run the tool / تشغيل الأداة في ترمكس:
-node app.js
-
-3. How to use / طريقة الاستخدام:
-* Paste your full Solidity contract into the terminal.
-(الصق كود العقد الذكي كاملاً في الشاشة)
-* Type 'check' on a new line and press Enter to trigger the AI global audit.
-(اكتب كلمة check في سطر جديد واضغط Enter لتبدأ عملية الفحص العالمي)
-* Type 'exit' to close the application.
-(اكتب كلمة exit للخروج من النظام)
 
 ---
 
-### 📄 License | الترخيص
-This project is licensed under the MIT License - feel free to use, modify, and develop!
+### 🚀 Quick Start Guide | دليل التشغيل السريع
+
+1. Clone the project & Install dependencies / تحميل المشروع وتثبيت المكتبات:
+```bash
+git clone [https://github.com/mhmda1/Hok-AI-Contract-Auditor.git](https://github.com/mhmda1/Hok-AI-Contract-Auditor.git)
+cd Hok-AI-Contract-Auditor
+npm install @google/genai
+
+Run the tool / تشغيل الأداة في الترمكس:
+package.json
+How to use / طريقة الاستخدام:
+​Paste your full Solidity contract into the terminal.
+(الصق كود العقد الذكي كاملاً في الشاشة)
+​Type 'check' on a new line and press Enter to trigger the AI global audit.
+(اكتب كلمة check في سطر جديد واضغط Enter لتبدأ عملية الفحص الشامل)
+​Type 'exit' to close the application.
+(اكتب كلمة exit للخروج من النظام وإغلاق الأداة)
+​📄 License | الترخيص
+​This project is licensed under the MIT License - feel free to use, modify, and develop!
 هذا المشروع مرخص بموجب رخصة MIT - متاح للاستخدام، التعديل، والتطوير الحر للجميع!
